@@ -12,12 +12,12 @@ body {
  }
 
  h2 {
-    color: #07289f; /* 제목의 색상 지정 */
+    color: #648CFF; /* 제목의 색상 지정 */
     text-align: left; /* 제목을 중앙 정렬 */
  }
  
  h3 {
-    color: #2do369; /* 제목의 색상 지정 */
+    color: #E97FE5; /* 제목의 색상 지정 */
     text-align: left; /* 제목을 중앙 정렬 */
  }
 
@@ -73,7 +73,7 @@ img {
     display: inline-block;
     padding: 10px 20px;
     margin: 10px 0;
-    background-color: #4c81af;
+    background-color: #AD19EC;
     color: white;
     text-align: center;
     text-decoration: none;
@@ -82,5 +82,5 @@ img {
  }
 
  .button:hover {
-    background-color: #eeee08;
+    background-color: #FFB432;
  }
